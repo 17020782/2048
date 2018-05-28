@@ -9,5 +9,7 @@ Luật chơi:
         + Khi không còn nước đi nào hợp lệ thì trò chơi sẽ kết thúc.
 Hướng phát triển hoàn thiện trò chơi: 
         + Xây dựng thêm bộ tính giờ, tính thời gian khi chơi.
-       
+        + Thêm tính năng Back: lùi lại một bước, khả dụng ngay cả khi đã gameover.
+        
+
         
